@@ -1,0 +1,6 @@
+product,review_text,rating,review_date,sentiment_score,sentiment_label
+Headphones,Great sound quality and comfortable to wear!,5,05-12-2024,0.566666667,Positive
+Smartphone,Terrible battery life and the camera is disappointing.,2,20-11-2024,-0.8,Negative
+Laptop,Excellent performance and very fast for work.,5,15-10-2024,0.63,Positive
+Smartwatch,Nice design but the screen scratches too easily.,3,30-09-2024,0.516666667,Positive
+Tablet,Good value for money and easy to use.,4,25-08-2024,0.566666667,Positive
